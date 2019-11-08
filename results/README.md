@@ -1,5 +1,7 @@
 # Some Results
 
+### These results were achieved after training 10,000 iterations.
+
 <p float="left">
 	<img src="0_actual.jpg" width="200"/>
 	<img src="0.jpg" width="200" style="margin-left: 10%"/>
